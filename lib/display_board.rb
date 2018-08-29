@@ -6,6 +6,5 @@ def display_board
   puts ligns
   puts rows
   puts ligns
-  "   |   |   "
-
+  puts rows
 end
